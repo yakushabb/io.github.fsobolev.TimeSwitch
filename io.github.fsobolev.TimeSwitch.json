@@ -9,6 +9,7 @@
         "--socket=fallback-x11",
         "--device=dri",
         "--socket=wayland",
+        "--talk-name=org.freedesktop.Flatpak",
         "--talk-name=org.gnome.SessionManager",
         "--system-talk-name=org.freedesktop.login1",
     	"--socket=pulseaudio"
@@ -58,8 +59,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/fsobolev/timeswitch.git",
-                    "tag" : "2022.11.8",
-                    "commit": "eb77fc52192156a3244af70315d2b31f9101325b"
+                    "commit": "70285f4fa10dbabd665f6aea31ca0c42b26583c9"
                 }
             ]
         }
