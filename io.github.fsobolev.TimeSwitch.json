@@ -59,8 +59,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/fsobolev/timeswitch.git",
-                    "tag" : "2022.12.03",
-                    "commit": "000a06ec954ada13a2f9c32e0a0e8e81d075bacd"
+                    "commit": "fb0906e2ec3ea89192791b42f67fcdcb153c9bc5"
                 }
             ]
         }
